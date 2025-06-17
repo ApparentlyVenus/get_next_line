@@ -1,4 +1,4 @@
-# get_next_line - Line Reading Function
+# get_next_line - Line Reading Function ✔️ 100/100
 
 A function that reads and returns one line at a time from a file descriptor, handling multiple files simultaneously with efficient memory management.
 
