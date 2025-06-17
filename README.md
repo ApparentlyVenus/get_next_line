@@ -9,7 +9,6 @@ get_next_line is a project that implements a function to read text files line by
 ## ✨ Features
 
 - **Line-by-Line Reading**: Read one line at a time from any file descriptor
-- **Multiple File Support**: Handle multiple file descriptors simultaneously  
 - **Memory Efficient**: Uses minimal memory with configurable buffer size
 - **EOF Handling**: Proper end-of-file detection and handling
 - **Error Management**: Robust error handling for various edge cases
